@@ -1,5 +1,5 @@
 classes = 2
-train = /content/drive/My\ Drive/localisation/train.txt
-valid = /content/drive/My\ Drive/localisation/test.txt
-names = /content/drive/My\ Drive/localisation/parking.names
-backup = /content/drive/My\ Drive/localisation/backup/
+train = /content/drive/My\ Drive/Localisation/train.txt
+valid = /content/drive/My\ Drive/Localisation/validation.txt
+names = /content/drive/My\ Drive/Localisation/parking.names
+backup = /content/drive/My\ Drive/Localisation/backup/
